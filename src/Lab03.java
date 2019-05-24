@@ -40,7 +40,7 @@
                 max=arr[ii];
             }
         }
-        System.out.println("The minimum in the arr::"+min);
-        System.out.println("The maximum in the arr::"+max);
+        System.out.println("The minimum in the arr:"+min);
+        System.out.println("The maximum in the arr:"+max);
     }
 }
