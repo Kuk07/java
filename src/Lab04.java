@@ -47,5 +47,4 @@ class GFG {
         System.out.println(mostFrequent(arr,n)); 
           
     } 
-} 
-  
+}   
