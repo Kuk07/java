@@ -24,7 +24,7 @@ public class Test
         object.removeLast(); 
         System.out.println("Linked list after deletion: " + object); 
   
-         
+        
         boolean status = object.contains("E"); 
   
         if(status) 
