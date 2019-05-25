@@ -17,7 +17,7 @@ public class VowelCount{
         if (vowels.indexOf(currentChar)>=0)
            vowelCount++;
         else if(Character.isLetter(currentChar))
-                consCount++;
+                consCount++;   
     }
     System.out.print(consCount+";");
     System.out.print(vowelCount);
