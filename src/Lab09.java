@@ -33,7 +33,7 @@ private static void  findOccurrence( String inputStr)
 
  {
 
-  List wordList = Arrays.asList(inputStr.split("\s+")); //for spliting by white space
+  List wordList = Arrays.asList(inputStr.split("\s+")); 
 
  HashSet hashSet = new HashSet(wordList);   
 
